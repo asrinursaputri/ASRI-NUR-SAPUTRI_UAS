@@ -1,0 +1,4 @@
+{"_id":{"$oid":"676cad11c242a8b85ac5fea7"},"nama":"Price","jenis kelamin":"Laki-laki","jabatan":"personal trainer"}
+{"_id":{"$oid":"676cad3dc242a8b85ac5fea8"},"nama":"Linda","jenis kelamin":"perempuan","jabatan":"pelatih zumba"}
+{"_id":{"$oid":"676cad9ac242a8b85ac5fea9"},"nama":"Yelan","jenis kelamin":"perempuan","jabatan":"pelatih yoga"}
+{"_id":{"$oid":"676cadbac242a8b85ac5feaa"},"nama":"Steven","jenis kelamin":"laki-laki","jabatan":"pelatih aerobik"}
